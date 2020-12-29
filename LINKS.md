@@ -1,0 +1,4 @@
+- <https://www.youtube.com/channel/UC0NErq0RhP51iXx64ZmyVfg>
+- <https://www.bretfisher.com/podcast/>
+- <https://www.bretfisher.com/>
+- <https://github.com/BretFisher/docker-mastery-for-nodejs>
